@@ -23,3 +23,7 @@ Execute com <code>react-native run-android</code> <br>
 
 ### Desenvolvido com: <br>
 <a href="https://reactnative.dev" rel="nofollow">React Native</a>  <br>
+
+Fontes: <br>
+https://www.youtube.com/watch?v=M258B1b_pMs <br>
+https://www.youtube.com/watch?v=8pDQ13MQQZo <br>
